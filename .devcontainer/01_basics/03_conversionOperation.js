@@ -1,3 +1,4 @@
+/*
 let score=33;
 console.log(typeof score); // or as a method
 console.log(typeof(score));
@@ -16,3 +17,24 @@ console.log(booleanIsLoggedIN);
 let SomeNum=33
 let StrNum=String(SomeNum)
 console.log(typeof StrNum);
+
+
+//$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$OPERATIONS$$$$$$$$$$$$$$$$//
+let value=3;
+let negValue=-value
+console.log(negValue); //-ve hojaegi value
+console.log(2**4)// this is 2 ki power 4
+let str1="hello"
+let str2="hitesh"
+let str3=str1+str2
+console.log(str3);
+//// problems here
+console.log("1"+2);//--o/p 12
+console.log(1+"2");// 0/p 12
+console.log("1"+2+2)//o/p 122
+console.log(1+2+"2")// o/p-- 32  ----- jo pehle milega usko hi lega javascript 
+*/
+
+
+
+
